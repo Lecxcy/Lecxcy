@@ -1,7 +1,11 @@
-![avatar](img/avatar.svg)
+<p align="center">
+  <img src="img/avatar.svg" />
+</p>
 <h2 align="center">Lecxcy</h2>
 
-![slogan](img/slogan.svg)
+<p align="center">
+  <img src="img/slogan.svg" align="center" />
+</p>
 
 ### About Me
 
