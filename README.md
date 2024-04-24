@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/avatar.jpg" style="width: 200px; height: 200px; border-radius: 50%;"/>
+  <img src="img/avatar.jpg" style="width: 200px; height: 200px;"/>
 </p>
 <h2 align="center">Lecxcy</h2>
 
